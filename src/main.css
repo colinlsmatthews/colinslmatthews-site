@@ -1,0 +1,84 @@
+body {
+    font-family: "Cormorant", "Garamond", serif;
+    font-size:1.25em;
+    background-color: #f5f5f5;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/*Font classes-------------------------------------------*/
+.sans {
+  font-family: "Ysabeau", "Helvetica", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.caps {
+  font-family: "YsabeauSC", "Ysabeau", "Helvetica", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.infant {
+  font-family: "YsabeauInfant", "Ysabeau", "Helvetica", sans-serif;
+  font-optical-sizing: auto;
+}
+
+code {
+  font-family: "Inconsolata", "JetBrainsMono", monospace;
+  font-size: 1em;
+  font-weight: normal;
+  font-optical-sizing:auto;
+  font-style: normal;
+  background-color: darkslategray;
+  color: lightgray;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.inactive {
+  color: grey;
+  background-color: unset;
+}
+
+/*Elements-----------------------------------------------*/
+p {
+  font-weight: 500;
+}
+
+a {
+  font-weight: 500;
+}
+
+button {
+  font-family: 'YsabeauInfant', sans-serif;
+  font-size: 1em;
+  font-weight: 700;
+  border-radius: 2px;
+  border-style: none;
+  background-color: rgb(223, 223, 223);
+}
+
+button:hover {
+  background-color: lightgrey;
+}
+
+button:active {
+  background-color: darkgrey;
+}
+
+/*Formatting elements------------------------------------*/
+.flex-container {
+  display: flex;
+}
+
+.flex-item {
+  margin: 10px;
+  padding: 20px;
+}
+

@@ -1,0 +1,10 @@
+.nav-items {
+    text-align: left;
+    list-style: none;
+}
+
+.nav-items li {
+    float: right;
+}
+
+

@@ -1,0 +1,59 @@
+@font-face {
+  font-family: Cormorant;
+  src: url(./_fonts/Cormorant/Cormorant-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: Ysabeau;
+  src: url(./_fonts/Ysabeau/Ysabeau-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: YsabeauSC;
+  src: url(./_fonts/Ysabeau_SC/YsabeauSC-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: YsabeauInfant;
+  src: url(./_fonts/Ysabeau_Infant/YsabeauInfant-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: Inconsolata;
+  src: url(./_fonts/Inconsolata/Inconsolata-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: JetBrainsMono;
+  src: url(./_fonts/JetBrains_Mono/JetBrainsMono-VariableFont_wght.ttf);
+}
+
+/*
+.ysabeau-sc-<uniquifier> {
+  font-family: "Ysabeau SC", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.cormorant-<uniquifier> {
+  font-family: "Cormorant", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.ysabeau-infant-<uniquifier> {
+  font-family: "Ysabeau Infant", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.ysabeau-<uniquifier> {
+  font-family: "Ysabeau", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+*/
